@@ -1,0 +1,37 @@
+body{
+    background-color:#F9AFAF;
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: white;
+}
+#para{
+    color: green; font-size:large;
+}
+label{
+    color: #000;
+    font-size: large;
+}
+
+#Y2k{
+    color: red;
+}
+p{
+    color: white;
+}
+a{
+    background-color:yellow ;
+}
+span{
+    background-color: violet;
+}
+
+article{
+    color: blue;
+}
+
+aside{
+    color: red;
+}
