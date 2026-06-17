@@ -15,7 +15,7 @@ This project was designed to fulfill a specific task: demonstrating the importan
 5.Tag Wrapping: Exploring how elements like <label>, <span>, <article>, and <aside> are styled both by their own element selectors and when wrapped around other content.
 6.The project also serves as a baseline for beginners to experiment with CSS, modify values, and immediately see the impact on the web page.
 
-This README was written as part of the course assignment submission. 
+This README  was written as part of the course assignment submission. 
  /\_/\ 
 ( o.o )
  > ^ <
