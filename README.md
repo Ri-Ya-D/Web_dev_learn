@@ -4,6 +4,7 @@ This project provides a practical demonstration of CSS selector specificity and 
 
 
 How to Use:
+
 1.Download the files: Ensure index.html and style.css are saved in the same folder.
 
 2.Open the HTML: Double-click index.html to open it in your desired web browser.
