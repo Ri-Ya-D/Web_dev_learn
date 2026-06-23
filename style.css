@@ -1,0 +1,31 @@
+
+img{
+      display: block;
+      width: 100%;
+}
+
+div{
+    height: 80vh;
+    margin-top: 10%;
+    margin-bottom: 10;
+    /* its not working for 10%, once again going in scroll */
+    padding:0vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    width: 50vw;
+    box-sizing: border-box;
+ }
+
+ button{
+    height: 10%;
+    width:100%;
+    border:solid;
+    border-width: 0.2vw;
+    background-image:linear-gradient(to right, #630303, #9f901d);
+    font-family: "Syne Mono", monospace;
+    font-weight: 700;
+    font-size: larger;
+}
+
+
+ 
