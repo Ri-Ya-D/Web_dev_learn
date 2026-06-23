@@ -7,7 +7,6 @@ img{
 div{
     height: 80vh;
     margin-top: 10%;
-    /* its not working for 10%, once again going in scroll */
     padding:0vw;
     margin-left: 25vw;
     margin-right: 25vw;
