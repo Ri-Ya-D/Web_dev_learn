@@ -17,7 +17,7 @@ li{
 ol>li>ul{
     padding-inline: 20vw;
     list-style: none;
-    
+     position:fixed;
 }
   nav>img{
     display:inline-block;
@@ -65,7 +65,7 @@ main{
 }
 div>img{
     float: right;
-    position: absolute;
+    position: fixed;
     left: 60vw;
     top: 10vw;
     height: 500px;
